@@ -73,13 +73,13 @@ Practiced accurate simulation timing and debugging using Vivado's simulation wav
 5. Audio and Speech Processing: FIR filters are used to remove noise or enhance certain sound frequencies.
 
 # Design Advantages:
-> Stability: FIR filters are always stable due to no feedback in design.
+-> Stability: FIR filters are always stable due to no feedback in design.
 
-> Linear Phase: This filter maintains phase alignment of frequency components, making it suitable for applications where phase distortion is unacceptable.
+-> Linear Phase: This filter maintains phase alignment of frequency components, making it suitable for applications where phase distortion is unacceptable.
 
-> Simplicity: Easy to implement in hardware since it doesn’t require recursive computations.
+-> Simplicity: Easy to implement in hardware since it doesn’t require recursive computations.
 
-> Scalability: Can be easily extended to more taps or variable coefficients.
+-> Scalability: Can be easily extended to more taps or variable coefficients.
 
 # Possible Extensions:
 Make coefficients programmable using memory-mapped registers.
