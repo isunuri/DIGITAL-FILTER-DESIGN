@@ -61,7 +61,6 @@ Constructed a comprehensive testbench to validate functionality by applying a se
 Practiced accurate simulation timing and debugging using Vivado's simulation waveform viewer and console outputs.
 
 # Practical Applications of FIR Filters:
-Audio and Speech Processing: FIR filters are used to remove noise or enhance certain sound frequencies.
 
 1. Image Processing: Edge smoothing, sharpening, and feature detection use FIR filtering.
 
@@ -70,6 +69,8 @@ Audio and Speech Processing: FIR filters are used to remove noise or enhance cer
 3. Biomedical Devices: Filtering ECG/EEG signals to remove muscle artifacts or power-line interference.
 
 4. Seismic Data Analysis: Enhancing signal-to-noise ratio for accurate geological interpretation.
+
+5. Audio and Speech Processing: FIR filters are used to remove noise or enhance certain sound frequencies.
 
 # Design Advantages:
 > Stability: FIR filters are always stable due to no feedback in design.
@@ -93,3 +94,5 @@ Convert the FIR filter to a low-pass or high-pass configuration using digital de
 This task successfully demonstrated the real-time behavior of a basic FIR filter using Verilog and Xilinx Vivado. It connected theoretical DSP knowledge to practical digital hardware design. The project served as a stepping stone toward more complex signal processing cores and highlighted how Verilog can model even sophisticated numerical computations like filtering in an efficient and scalable way. Understanding FIR filter implementation in RTL also enhances the capability to work in domains like DSP hardware acceleration, FPGA-based signal conditioning, and embedded communication systems.
 
 # Schematic & outputwaveforms
+![Image](https://github.com/user-attachments/assets/afd93c46-60ce-4fe1-9794-1c2e5c26e011)
+![Image](https://github.com/user-attachments/assets/bdb702a3-c24c-4a8c-861f-e706019aaf40)
